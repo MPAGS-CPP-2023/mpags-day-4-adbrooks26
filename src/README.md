@@ -110,6 +110,8 @@ file supplied with the `-o` option.
     │   ├── CipherMode.hpp
     │   ├── CipherType.hpp
     │   ├── CMakeLists.txt
+    │   ├── PlayfairCipher.cpp
+    │   ├── PlayfairCipher.hpp
     │   ├── ProcessCommandLine.cpp
     │   ├── ProcessCommandLine.hpp
     │   ├── TransformChar.cpp
